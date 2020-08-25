@@ -1,0 +1,8 @@
+{
+    "join_wait": 15,
+    "answer_wait": 30,
+    "questions": {
+        "Question 1": {"answers": ["valid answer"]},
+        "Question 2": {"answers": ["valid answer 1", "valid answer 2"]}
+    }
+}

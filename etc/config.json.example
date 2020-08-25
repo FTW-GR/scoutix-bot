@@ -1,0 +1,18 @@
+{
+  "connection": {
+    "server": "servername",
+    "port": 6667,
+    "tls": false,
+    "tls_verify": false,
+    "nick": "nick",
+    "channels": ["#my_channel"],
+    "sasl": {
+        "username": "username",
+        "password": "password"
+    }
+  },
+  "modules": {
+    "module1": {},
+    "module2": {}
+  }
+}
